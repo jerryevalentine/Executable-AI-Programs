@@ -7,6 +7,11 @@ These programs are not tutorials or static documents—they are **live interacti
 
 Sometimes, ChatGPT settings often keep the program from automatically executing.  Simply put - ChatGPT simply refuses to follow the instructions on the first page of the pdf.  
 I believe this program has been solved.  However, if this happens, the user simply needs to respond "Please Run as an Executable Program."
+## 📖 Blog
+
+Check out the latest blog post:  
+👉 [Turning Prompt Patterns into Executable Programs](https://jerryvalentine.github.io/Executable-AI-Programs/2025/08/28/executable-prompts.html)
+
 
 ---
 
